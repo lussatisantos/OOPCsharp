@@ -6,7 +6,7 @@ public class Jogador {
 
 }
 
-class Aula01{
+class Aula02{
     static void Main() {
         Jogador J1 = new Jogador();
         Jogador J2 = new Jogador();
