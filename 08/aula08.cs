@@ -57,7 +57,7 @@ class CarroCombate:Carro {
     }
 }
 
-class Aula07 {
+class Aula08 {
     static void Main() {
         Carro car1 = new Carro("Rapidao", "Vermelho");
         CarroCombate car2 = new CarroCombate();
