@@ -31,7 +31,7 @@ class Aula20{
         Galinha galinha1 = new Galinha("Marisa");
 
         galinha.botar();
-
+   
         galinha1.botar();
 
         galinha2.botar();
